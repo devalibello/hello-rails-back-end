@@ -115,6 +115,6 @@ I would like to thank my colleagues at Microverse for their support during the p
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/devalibello/hello-rails-back-end/blob/setup/LICENSE)licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
